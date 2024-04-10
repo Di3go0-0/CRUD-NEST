@@ -11,32 +11,32 @@ $ npm install
 
 ## Running the app
 
-# Development
+### Development
 ```bash
 $ npm run start
 ```
-# Watch mode
+### Watch mode
 ```bash
 $ npm run start:dev
 ```
-# Production mode
+### Production mode
 ```bash
 $ npm run start:prod
 ```
 
 ## Test
 
-# Unit tests
+### Unit tests
 ```bash
 $ npm run test
 ```
 
-# End-to-end tests
+### End-to-end tests
 ```bash
 $ npm run test:e2e
 ```
 
-# Test coverage
+### Test coverage
 ```bash
 $ npm run test:cov
 ```
