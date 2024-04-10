@@ -7,31 +7,37 @@ The goal of this API is to demonstrate the usage of Nest.js, utilizing Prism as 
 
 ```bash
 $ npm install
-
+```
 
 ## Running the app
 
-```bash
 # Development
+```bash
 $ npm run start
-
+```
 # Watch mode
+```bash
 $ npm run start:dev
-
+```
 # Production mode
+```bash
 $ npm run start:prod
-
+```
 
 ## Test
 
-```bash
 # Unit tests
+```bash
 $ npm run test
+```
 
 # End-to-end tests
+```bash
 $ npm run test:e2e
+```
 
 # Test coverage
+```bash
 $ npm run test:cov
 ```
 
